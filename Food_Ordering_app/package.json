@@ -1,0 +1,22 @@
+{
+  "name": "food-ordering-app",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "parcel": "^2.16.1",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "scripts": {
+    "start": "parcel ReactApp.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.28.5",
+    "@babel/preset-env": "^7.28.5",
+    "@babel/preset-react": "^7.28.5"
+  }
+}
